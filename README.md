@@ -2,7 +2,7 @@
 ## Installation
 1. Clone the repository to your local machine:
 ```bash
-  git clon https://github.com/amit8889/TUF_SWE.git
+  git clone https://github.com/amit8889/TUF_SWE.git
 ```
 
 2. Navigate to the Backend Folder.
